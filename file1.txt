@@ -1,1 +1,2 @@
-Hello this is my first file on github. 
+Hello this is my first file on github.
+Welcome to git hub journey ,  
