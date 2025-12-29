@@ -1,0 +1,25 @@
+ Flask backend
+ /api route reading JSON data from a file
+ Frontend form (HTML) → inserts into MongoDB Atlas
+ Redirect on success / show error on same page
+ Folder structure
+ Full code
+ Step-by-step explanation
+ What screenshots you must attach
+ What to submit in your doc file
+
+Project structure:
+
+ flask_mongo_app/
+│
+├── BackEnd/
+│   ├── app.py
+│   ├── data.json
+│   └── requirements.txt
+│
+└── FrontEnd/
+    ├── templates/
+    │     ├── index.html
+    │     └── success.html
+    └── static/
+          └── style.css
